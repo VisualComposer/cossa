@@ -5,8 +5,8 @@
  * Description: Automatically loads saved CSS for the content.
  *
  * Version: 1.0
- * Author: WPBakery
- * Author URI: http://wpbakery.com
+ * Author: Visual Composer
+ * Author URI: http://visualcomposer.com
  * Requires at least: 4.1
  */
  
